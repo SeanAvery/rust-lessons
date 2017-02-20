@@ -1,0 +1,7 @@
+[package]
+name = "ethereum-ipc-rust"
+version = "0.1.0"
+authors = ["seanpollock <seanpollock3344@gmail.com>"]
+
+[dependencies]
+nanomsg = "0.6.1"

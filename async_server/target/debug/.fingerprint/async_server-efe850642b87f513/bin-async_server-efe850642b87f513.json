@@ -1,0 +1,1 @@
+{"rustc":4170047237237902413,"features":"[]","target":5214547783366365290,"profile":3436201941311772988,"path":1036222786711178230,"deps":[["tokio-core v0.1.17",14236735929887904096]],"local":[{"MtimeBased":[[1527908916,0],".fingerprint/async_server-efe850642b87f513/dep-bin-async_server-efe850642b87f513"]}],"rustflags":[],"epoch":"Epoch2015"}

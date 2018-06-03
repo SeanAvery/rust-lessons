@@ -1,0 +1,19 @@
+[package]
+name = "async_server"
+version = "0.1.0"
+authors = ["seanpollock <seanpollock3344@gmail.com>"]
+
+[[bin]]
+name = "client"
+path = "src/client.rs"
+
+[[bin]]
+name = "server"
+path = "src/server.rs"
+
+[dependencies]
+tokio-core = "0.1.17"
+tokio-io = "0.1.6"
+futures = "0.2.1"
+env_logger = "0.5.10"
+tokio = "0.1.6"
